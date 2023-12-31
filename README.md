@@ -1,12 +1,12 @@
 # Customer-Churn-Analysis
-This is a Data Visualization project that showed the percentage or rate of customers lost within  bank following different  demography or status and was visualized accordingly using the Power BI tool.
+This is a Data Visualization project that showed the percentage or rate of customers lost within  a bank following different  demography or status and was visualized accordingly using the Power BI tool.
 
 
 ![Customer Churn Analysis picture](https://github.com/ChimaJerry/Customer-Churn-Analysis/assets/132655711/6e0f178d-3987-47bb-81f0-9bd82cba9925)
 
 
 ##  Introduction
-This project is aimed at analysis the customer churn analysis of a bank and the services they render across 3 different countries. Churn analysis is the process of deep diving to know the attrition rate of customers in a company or in using a particular product or service. In this Power BI visualization, the Author compared the churn analysis across countries, gender, age, account balance, credit score etc.
+This project is aimed at analysis the customer churn (lost) of a bank and the services they render across 3 different countries. Churn analysis is the process of deep diving to know the attrition rate of customers in a company or in using a particular product or service. In this Power BI visualization, the Author compared the churn analysis across countries, gender, age, account balance, credit score etc.
 
 ### Table of Content
 - [Data Source](#data-source)
@@ -23,7 +23,7 @@ This project is aimed at analysis the customer churn analysis of a bank and the 
 The data for this Bank Customer Churn analysis was Downloaded from [here]( https://tinyurl.com/z4r3mv34). 
 
 ### Data Preparation 
-Cleaning, formatting and reshaping the data was done. Data was imported into the power BI platform. At this stage I ensured there was no missing values within the data set. All columns were checked to ensure no outlier of unacceptable values find within the column. The different columns were aligned to ensure it’s in the accurate data format for instance, age should be an integer, churn status a binary etc. Additional conditions were introduced into the dataset to group some of the elements of the datasets like age, credit score and account balance for ese of analysis.
+Cleaning, formatting and reshaping the data was done. Data was imported into the power BI platform. At this stage I ensured there was no missing values within the data set. All columns were checked to ensure no outlier or unacceptable values find within the column by simple using the sort/filter function. The different columns were aligned to ensure it’s in the accurate data format for instance, age should be an integer, churn status a binary etc. Additional conditions were introduced into the dataset to group some of the elements of the datasets like age, credit score and account balance for ese of analysis.
 
 ### Data Modeling 
 creating queries to model data for analysis and visualization. Appropriate data modeling techniques were introduces using queries to create data models for the account balance, age and credit score group as this will coming in useful during the data analysis and visualization build up.  
